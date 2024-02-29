@@ -1,0 +1,25 @@
+{
+  "name": "carbooker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhoenixTamaoki/CarBooker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhoenixTamaoki/CarBooker/issues"
+  },
+  "homepage": "https://github.com/PhoenixTamaoki/CarBooker#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.0"
+  }
+}
